@@ -10,9 +10,26 @@ body {
     font-style: normal;
 }
 
-img {
+#foto-deb {
+    padding: 5px;
     border: 5px solid #E6A4B4;
-    margin: 20px;
+    margin: 20px 20px 30px 44px;
+    background-color: #F5EEE6;
+}
+
+#logo_face {
+    hight: 35px;
+    width: 35px;
+}
+
+#logo_linkedin {
+    height: 35px;
+    width: 35px;
+}
+
+#logo_GitHub {
+    height: 35px;
+    width: 35px;
 }
 
 .cabecalho {
@@ -35,9 +52,25 @@ a {
     font-weight: 200;
 }
 
-.intro {
+.info-esquerda{
+    background-color: #FFF8E3;
+    height: 550px;
+    width: 220px;
+    border: 1px solid #E6A4B4;
+    margin-top: -50px;
     margin-left: 20px;
+    padding: 20px;
 }
 
+.intro {
+    background-color: #F5EEE6;
+    margin-top: -530px;
+    margin-left: 300px;
+    width: 600px;
+    padding-bottom: 20px;
+}
 
-
+footer {
+    text-align: left;
+    margin-top: 460px;
+}
