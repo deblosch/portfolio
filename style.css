@@ -1,0 +1,39 @@
+html {
+    background-color: #F3D7CA;
+}
+
+body {
+    background-color: #F5EEE6;
+    font-family: "Dosis", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
+
+img {
+    border: 5px solid #E6A4B4;
+    margin: 20px;
+}
+
+.cabecalho {
+    background-color: #F3D7CA;
+    width: 100%;
+    display: flex;
+}
+
+.text-header {
+    margin-left: 50px;
+}
+
+p {
+    font-size: larger;
+    font-weight: 200;
+}
+
+a {
+    font-size: larger;
+    font-weight: 200;
+}
+
+
+
